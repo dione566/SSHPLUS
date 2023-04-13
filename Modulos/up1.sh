@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "MELHORIAS ENCONTRADAS!",
-  "UrlUpdate": "https://raw.githubusercontent.com/sudosalve/sshpluss/master/Modulos/up2.sh",
+  "UrlUpdate": "https://raw.githubusercontent.com/dione566/SSHPLUS/master/Modulos/up1.sh",
   "Sms": "https://raw.githubusercontent.com/dione566/sms/master/sms.sh",
   "EmailFeedback": "",
   "UrlContato": "https://wa.me/5566992527471",
