@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "MELHORIAS ENCONTRADAS!",
   "UrlUpdate": "https://raw.githubusercontent.com/dione566/SSHPLUS/master/Modulos/up1.sh",
   "Sms": "https://raw.githubusercontent.com/dione566/sms/master/sms.sh",
@@ -27,9 +27,9 @@
   ],
    "Networks": [
     {
-      "Name": "01 - Version: 1.0.3",
+      "Name": "01 - Version: 1.0.4",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= 981i31n148ya9403x6.speedup.mobi;q31k171216e3r84g38.speedup.mobi;136i413d9fe11623r8.speedup.mobi;d339120466v8rf241m.speedup.mobi;188348191lx76t52tm.speedup.mobi;639p2s66i4142m158u.speedup.mobi;8g96a3831s82156q2j.speedup.mobi;1563278a4k3wc10l11.speedup.mobi;n46f1114u86vg61959.speedup.mobi;12833v605t84i0r81o.speedup.mobi;s1.gomesssh.store;s2.gomesssh.store][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= 7a2087rc1dh0420641.speedup.mobi;496zpd335r571881u7.speedup.mobi;39b326q06o84s11g47.speedup.mobi;981i31n148ya9403x6.speedup.mobi;q31k171216e3r84g38.speedup.mobi;136i413d9fe11623r8.speedup.mobi;188348191lx76t52tm.speedup.mobi;639p2s66i4142m158u.speedup.mobi;n46f1114u86vg61959.speedup.mobi;12833v605t84i0r81o.speedup.mobi;s1.gomesssh.store;s2.gomesssh.store][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "13.227.126.65",
@@ -37,9 +37,9 @@
       "Info": "Proxy"
     },
     {
-      "Name": "02 - Version: 1.0.3",
+      "Name": "02 - Version: 1.0.4",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= 981i31n148ya9403x6.speedup.mobi;q31k171216e3r84g38.speedup.mobi;136i413d9fe11623r8.speedup.mobi;d339120466v8rf241m.speedup.mobi;188348191lx76t52tm.speedup.mobi;639p2s66i4142m158u.speedup.mobi;8g96a3831s82156q2j.speedup.mobi;1563278a4k3wc10l11.speedup.mobi;n46f1114u86vg61959.speedup.mobi;12833v605t84i0r81o.speedup.mobi;s1.gomesssh.store;s2.gomesssh.store][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= 7a2087rc1dh0420641.speedup.mobi;496zpd335r571881u7.speedup.mobi;39b326q06o84s11g47.speedup.mobi;981i31n148ya9403x6.speedup.mobi;q31k171216e3r84g38.speedup.mobi;136i413d9fe11623r8.speedup.mobi;188348191lx76t52tm.speedup.mobi;639p2s66i4142m158u.speedup.mobi;n46f1114u86vg61959.speedup.mobi;12833v605t84i0r81o.speedup.mobi;s1.gomesssh.store;s2.gomesssh.store][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "recarga.vivo.com.br",
@@ -47,7 +47,7 @@
       "Info": "Proxy"
     },
     {
-       "Name": "03 - 1Store 1.0.3 >",
+       "Name": "03 - 1Store 1.0.4 >",
       "FLAG": "vivo",
       "Payload": "GET ssl://salve.gomesssh.store HTTP/1.1[crlf]Host: none[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "salve.gomesssh.store",
